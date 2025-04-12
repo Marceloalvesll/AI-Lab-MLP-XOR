@@ -1,0 +1,242 @@
+
+Primeiro experimento com os dados do professor((input_size=2, hidden_sizes=[2], output_size=1, learning_rate=0.1, epochs=1000))
+
+outs: “PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2539035186489542
+
+Resultados:
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.25344859516687934
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [1.]
+Entrada: [0 1], Saída Prevista: [0.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2640033244602219
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [1.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1>”
+
+Segundo experimento com os dados((input_size=2, hidden_sizes=[4], output_size=1, learning_rate=0.01, epochs=5000)): 
+“PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2831868193821763
+Época 1000, Erro: 0.25065941520982554
+Época 2000, Erro: 0.2503003183922761
+Época 3000, Erro: 0.25018813349625846
+Época 4000, Erro: 0.2500996319235922
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [1.]
+Entrada: [0 1], Saída Prevista: [0.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.25687068601036084
+Época 1000, Erro: 0.25015194788893014
+Época 2000, Erro: 0.24979992706867152
+Época 3000, Erro: 0.2495020684986438
+Época 4000, Erro: 0.249205442289487
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [0.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2972938911835538
+Época 1000, Erro: 0.25109470543479856
+Época 2000, Erro: 0.2505685956762832
+Época 3000, Erro: 0.2504950172746719
+Época 4000, Erro: 0.2504308074188366
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [0.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1>
+”
+
+
+Terceiro experimento com os dados((input_size=2, hidden_sizes=[4], output_size=1, learning_rate=0.5, epochs=10000)):
+“PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2543142041211701
+Época 1000, Erro: 0.02774183667010717
+Época 2000, Erro: 0.006113422191759367
+Época 3000, Erro: 0.003260850273067544
+Época 4000, Erro: 0.0021675186619372474
+Época 5000, Erro: 0.0015938068337395016
+Época 6000, Erro: 0.0012417810011287518
+Época 7000, Erro: 0.0010046169795762385
+Época 8000, Erro: 0.0008348720522217792
+Época 9000, Erro: 0.0007083077549892332
+
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.25697818682798945
+Época 1000, Erro: 0.24604372527096707
+Época 2000, Erro: 0.024413021632305274
+Época 3000, Erro: 0.006522928566461908
+Época 4000, Erro: 0.0035774377755681194
+Época 5000, Erro: 0.0024244120162198813
+Época 6000, Erro: 0.0018179516380527902
+Época 7000, Erro: 0.0014463220563434008
+Época 8000, Erro: 0.0011962049203322934
+Época 9000, Erro: 0.001016836652258257
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2643339853102404
+Época 1000, Erro: 0.06689469251025204
+Época 2000, Erro: 0.005899798739499338
+Época 3000, Erro: 0.0028235714560764054
+Época 4000, Erro: 0.0018279753770743684
+Época 5000, Erro: 0.001343594783911046
+Época 6000, Erro: 0.0010590197129910221
+Época 7000, Erro: 0.0008724133771933997
+Época 8000, Erro: 0.0007408925248017206
+Época 9000, Erro: 0.0006433385079088594
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1>”
+
+
+Quarto experimento com os dados((input_size=2, hidden_sizes=[4], output_size=1, learning_rate=0.5, epochs=5000)):
+“PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.259252150036391
+Época 1000, Erro: 0.2492056539206032
+Época 2000, Erro: 0.09534642029560471
+Época 4000, Erro: 0.06543562677242097
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.25326587519081833
+Época 1000, Erro: 0.22555666542009872
+Época 2000, Erro: 0.01897885994678602
+Época 3000, Erro: 0.004862717840364091
+Época 4000, Erro: 0.0027021760139768662
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.24972112749540734
+Época 1000, Erro: 0.0404633217459341
+Época 2000, Erro: 0.006403624615976479
+Época 3000, Erro: 0.003205876786330423
+Época 4000, Erro: 0.002101107094099898
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1>
+”
+
+
+Quinto experimento com os dados((input_size=2, hidden_sizes=[2], output_size=1, learning_rate=0.05, epochs=5000)):
+“PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2747862222725476
+Época 1000, Erro: 0.24999164442903843
+Época 2000, Erro: 0.24999078115783646
+Época 3000, Erro: 0.24999010591826565
+Época 4000, Erro: 0.2499895819331614
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.25114774389806377
+Época 1000, Erro: 0.24968110536173038
+Época 2000, Erro: 0.2485277096989017
+Época 3000, Erro: 0.24581811275433263
+Época 4000, Erro: 0.23838861794776228
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [0.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.26045716121754814
+Época 1000, Erro: 0.24993598046210364
+Época 2000, Erro: 0.2498298949222634
+Época 3000, Erro: 0.249638340580769
+Época 4000, Erro: 0.24916468619080195
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [0.]
+Entrada: [1 1], Saída Prevista: [1.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1>
+”
+
+
+
+Sexto experimento com os dados((input_size=2, hidden_sizes=[6], output_size=1, learning_rate=0.1, epochs=5000)):
+“PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.252503658379183
+Época 1000, Erro: 0.24863524292467978
+Época 2000, Erro: 0.2424462970095054
+Época 3000, Erro: 0.18391949050119635
+Época 4000, Erro: 0.08429023387100457
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.2538808147582962
+Época 1000, Erro: 0.2473803737683014
+Época 2000, Erro: 0.20990646842580482
+Época 3000, Erro: 0.1453921932446114
+Época 4000, Erro: 0.0736798343516888
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1> & "C:/Users/Marcelo Alves Leite/AppData/Local/Programs/Python/Python313/python.exe" "c:/Users/Marcelo Alves Leite/Documents/6 periodo/IA/A1/AI-Lab/algorithms/neural_networks/mlp/mlp_simples.py"
+Época 0, Erro: 0.27530763333611435
+Época 1000, Erro: 0.2375672884341331
+Época 2000, Erro: 0.1791784353449592
+Época 3000, Erro: 0.12319485240267004
+Época 4000, Erro: 0.0692437688354062
+
+Resultados:
+Entrada: [0 0], Saída Prevista: [0.]
+Entrada: [0 1], Saída Prevista: [1.]
+Entrada: [1 0], Saída Prevista: [1.]
+Entrada: [1 1], Saída Prevista: [0.]
+PS C:\Users\Marcelo Alves Leite\Documents\6 periodo\IA\A1>
+”
